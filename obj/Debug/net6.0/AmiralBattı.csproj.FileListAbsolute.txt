@@ -1,0 +1,5 @@
+C:\Users\suder\OneDrive\Masaüstü\AmiralBattı\AmiralBattı\obj\Debug\net6.0\AmiralBattı.csproj.AssemblyReference.cache
+C:\Users\suder\OneDrive\Masaüstü\AmiralBattı\AmiralBattı\obj\Debug\net6.0\AmiralBattı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suder\OneDrive\Masaüstü\AmiralBattı\AmiralBattı\obj\Debug\net6.0\AmiralBattı.AssemblyInfoInputs.cache
+C:\Users\suder\OneDrive\Masaüstü\AmiralBattı\AmiralBattı\obj\Debug\net6.0\AmiralBattı.AssemblyInfo.cs
+C:\Users\suder\OneDrive\Masaüstü\AmiralBattı\AmiralBattı\obj\Debug\net6.0\AmiralBattı.csproj.CoreCompileInputs.cache
